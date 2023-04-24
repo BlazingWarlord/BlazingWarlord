@@ -1,6 +1,6 @@
 ### Hey, I am Blazing Warlord
 
-##I am just a guy who likes to code !
+## I am just a guy who likes to code !
 
 <!--
 **BlazingWarlord/BlazingWarlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BlazingWarlord&theme=dracula)](https://github.com/BlazingWarlord/github-readme-stats) ![Github stats](https://github-readme-stats.vercel.app/api?username=BlazingWarlord&theme=dracula)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BlazingWarlord&theme=dracula)](https://github.com/BlazingWarlord/github-readme-stats)     ![Github stats](https://github-readme-stats.vercel.app/api?username=BlazingWarlord&theme=dracula)
