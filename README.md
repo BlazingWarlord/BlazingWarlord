@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BlazingWarlord&theme=dracula)](https://github.com/BlazingWarlord/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=BlazingWarlord)
+![Github stats](https://github-readme-stats.vercel.app/api?username=BlazingWarlord&theme=dracula)
