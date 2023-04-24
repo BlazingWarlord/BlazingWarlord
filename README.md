@@ -1,6 +1,5 @@
 ### Hey, I am Blazing Warlord
 
-## I am just a guy who likes to code !
 
 <!--
 **BlazingWarlord/BlazingWarlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
