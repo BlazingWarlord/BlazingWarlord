@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anirudh Ramesh</h1>
+<h1>Hello There ! (General Kenobi...)</h1>
+<h2 align="center">I'm Anirudh Ramesh</h2>
 <h3 align="center">A Geek who likes to code</h3>
 
 <h3 align="left">Connect with me:</h3>
